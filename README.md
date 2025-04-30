@@ -101,6 +101,6 @@ I've put a lot of effort into creating this portfolio template, and I'm thrilled
 
 ## Contact
 
-[Github](https://github.com/iluskaland)
+[Github](https://github.com/gitKOVA)
 
 Feel free to reach out if you have any questions or feedback!
